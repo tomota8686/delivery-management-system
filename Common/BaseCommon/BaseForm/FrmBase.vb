@@ -21,6 +21,15 @@ Public Class FrmBase
         'initial position
         Me.StartPosition = FormStartPosition.CenterScreen
 
+        'initial size
+        Me.Width = 1280
+        Me.Height = 750
+
+        'initial form property
+        'fized size
+        Me.FormBorderStyle = FormBorderStyle.FixedSingle
+        Me.MaximizeBox = False
+
     End Sub
 
 
