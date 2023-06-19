@@ -1,5 +1,5 @@
 # delivery-management-system
-【未完成】配送管理システム
+【未完成and試作】配送管理システム
 
 ## Dependency
 * Visual Basic .NET
